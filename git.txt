@@ -1,5 +1,3 @@
 hello i am Pingu
 
 I am codingal
-
-Adding line 1
